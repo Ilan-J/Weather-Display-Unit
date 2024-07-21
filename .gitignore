@@ -1,0 +1,7 @@
+# Folders
+__pycache__
+.vscode
+
+# Files
+.env
+test.py
